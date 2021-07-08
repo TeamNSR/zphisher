@@ -86,7 +86,7 @@ $ docker run --rm -it htrtech/zphisher
 
 ### Find Me on :
 <p align="left">
-  <a href="https://github.com/htr-tech" target="_blank"><img src="https://img.shields.io/badge/Github-HTR--TECH-green?style=for-the-badge&logo=github"></a>
-  <a href="https://www.instagram.com/tahmid.rayat" target="_blank"><img src="https://img.shields.io/badge/IG-%40tahmid.rayat-red?style=for-the-badge&logo=instagram"></a>
+  <a href="https://github.com/TeamNSR" target="_blank"><img src="https://img.shields.io/badge/Github-Team--NSR-green?style=for-the-badge&logo=github"></a>
+  <a href="https://www.instagram.com/hass_kar_dekho" target="_blank"><img src="https://img.shields.io/badge/IG-%40Raj Hacker-red?style=for-the-badge&logo=instagram"></a>
   <a href="https://m.me/tahmid.rayat.official" target="_blank"><img src="https://img.shields.io/badge/Chat-Messenger-blue?style=for-the-badge&logo=messenger"></a>
 </p>
