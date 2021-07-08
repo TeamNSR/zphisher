@@ -6,7 +6,7 @@
 ##   Github 	: 	https://github.com/htr-tech
 
 ##   THANKS TO :
-##   Aditya Shakya - https://github.com/adi1090x
+##   Raj Hacker - https://github.com/adi1090x
 ##   Moises Tapia - https://github.com/MoisesTapia
 ##   TheLinuxChoice - https://twitter.com/linux_choice
 ##   DarksecDevelopers  - https://github.com/DarksecDevelopers
