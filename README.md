@@ -38,7 +38,7 @@
 
 - Just, Clone this repository -
 ```
-$ git clone git://github.com/htr-tech/zphisher.git
+$ git clone git://github.com/TeamNSR/zphisher.git
 ```
 
 - Change to cloned directory and run `zphisher.sh` -
@@ -78,10 +78,10 @@ $ docker run --rm -it htrtech/zphisher
 
 ### Special Thanks :
 
-- [**Aditya Shakya**](https://github.com/adi1090x)
-- [**TheLinuxChoice**](https://twitter.com/linux_choice)
-- [**DarksecDevelopers**](https://github.com/DarksecDevelopers)
-- [**Moises Tapia**](https://github.com/MoisesTapia)
+- [**RAJ HACKER**](https://github.com/TeamNSR)
+- [**TeamNSR**](https://twitter.com/linux_choice)
+
+
 
 
 ### Find Me on :
