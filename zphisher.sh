@@ -145,15 +145,14 @@ kill_pid() {
 ## Banner
 banner() {
 	cat <<- EOF
-		${ORANGE}
-                ${ORANGE}  ╔════╗───────╔═╗─╔╦═══╦═══
-                ${ORANGE}  ║╔╗╔╗║───────║║╚╗║║╔═╗║╔═╗║
-                ${ORANGE}  ╚╝║║╠╩═╦══╦╗╔╣╔╗╚╝║╚══╣╚═╝║
-                ${ORANGE}  ──║║║║═╣╔╗║╚╝║║╚╗║╠══╗║╔╗╔╝
-                ${ORANGE}  ──║║║║═╣╔╗║║║║║─║║║╚═╝║║║╚╗
-                ${ORANGE}  ──╚╝╚══╩╝╚╩╩╩╩╝─╚═╩═══╩╝╚═╝${RED}Version : 2.1
-
-		${GREEN}[${WHITE}-${GREEN}]${CYAN} Tool Created by TeamNSR (•Raj || Hacker•)${WHITE}
+	${ORANGE}
+        ${ORANGE}  ╔════╗───────╔═╗─╔╦═══╦═══
+        ${ORANGE}  ║╔╗╔╗║───────║║╚╗║║╔═╗║╔═╗║
+        ${ORANGE}  ╚╝║║╠╩═╦══╦╗╔╣╔╗╚╝║╚══╣╚═╝║
+        ${ORANGE}  ──║║║║═╣╔╗║╚╝║║╚╗║╠══╗║╔╗╔╝
+        ${ORANGE}  ──║║║║═╣╔╗║║║║║─║║║╚═╝║║║╚╗
+        ${ORANGE}  ──╚╝╚══╩╝╚╩╩╩╩╝─╚═╩═══╩╝╚═╝${RED}Version : 2.1
+        ${GREEN}[${WHITE}-${GREEN}]${CYAN} Tool Created by TeamNSR (•Raj || Hacker•)${WHITE}
 	EOF
 }
 
