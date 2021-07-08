@@ -1,12 +1,12 @@
 #!/bin/bash
 
 ##   Zphisher 	: 	Automated Phishing Tool
-##   Author 	: 	TAHMID RAYAT 
+##   Author 	: 	RAJ HACKER 
 ##   Version 	: 	2.1
-##   Github 	: 	https://github.com/htr-tech
+##   Github 	: 	https://github.com/TeamNSR
 
 ##   THANKS TO :
-##   Raj Hacker - https://github.com/adi1090x
+##   Raj Hacker - https://github.com/TeamNSR
 ##   Moises Tapia - https://github.com/MoisesTapia
 ##   TheLinuxChoice - https://twitter.com/linux_choice
 ##   DarksecDevelopers  - https://github.com/DarksecDevelopers
@@ -146,26 +146,27 @@ kill_pid() {
 banner() {
 	cat <<- EOF
 		${ORANGE}
-		${ORANGE} ______      _     _     _               
-		${ORANGE}|___  /     | |   (_)   | |              
-		${ORANGE}   / / _ __ | |__  _ ___| |__   ___ _ __ 
-		${ORANGE}  / / | '_ \| '_ \| / __| '_ \ / _ \ '__|
-		${ORANGE} / /__| |_) | | | | \__ \ | | |  __/ |   
-		${ORANGE}/_____| .__/|_| |_|_|___/_| |_|\___|_|   
-		${ORANGE}      | |                                
-		${ORANGE}      |_|                ${RED}Version : 2.1
+                ${ORANGE}  ╔════╗───────╔═╗─╔╦═══╦═══
+                ${ORANGE}  ║╔╗╔╗║───────║║╚╗║║╔═╗║╔═╗║
+                ${ORANGE}  ╚╝║║╠╩═╦══╦╗╔╣╔╗╚╝║╚══╣╚═╝║
+                ${ORANGE}  ──║║║║═╣╔╗║╚╝║║╚╗║╠══╗║╔╗╔╝
+                ${ORANGE}  ──║║║║═╣╔╗║║║║║─║║║╚═╝║║║╚╗
+                ${ORANGE}  ──╚╝╚══╩╝╚╩╩╩╩╝─╚═╩═══╩╝╚═╝${RED}Version : 2.1
 
-		${GREEN}[${WHITE}-${GREEN}]${CYAN} Tool Created by htr-tech (tahmid.rayat)${WHITE}
+		${GREEN}[${WHITE}-${GREEN}]${CYAN} Tool Created by TeamNSR (•Raj || Hacker•)${WHITE}
 	EOF
 }
 
 ## Small Banner
 banner_small() {
 	cat <<- EOF
-		${BLUE}
-		${BLUE}  ░▀▀█░█▀█░█░█░▀█▀░█▀▀░█░█░█▀▀░█▀▄
-		${BLUE}  ░▄▀░░█▀▀░█▀█░░█░░▀▀█░█▀█░█▀▀░█▀▄
-		${BLUE}  ░▀▀▀░▀░░░▀░▀░▀▀▀░▀▀▀░▀░▀░▀▀▀░▀░▀${WHITE} 2.1
+		${BLUE}		
+                ${BLUE} ╭━━━━╮╱╱╱╱╱╱╱╭━╮╱╭┳━━━┳━━━╮
+                ${BLUE} ┃╭╮╭╮┃╱╱╱╱╱╱╱┃┃╰╮┃┃╭━╮┃╭━╮┃
+                ${BLUE} ╰╯┃┃┣┻━┳━━┳╮╭┫╭╮╰╯┃╰━━┫╰━╯┃
+                ${BLUE} ╱╱┃┃┃┃━┫╭╮┃╰╯┃┃╰╮┃┣━━╮┃╭╮╭╯
+                ${BLUE} ╱╱┃┃┃┃━┫╭╮┃┃┃┃┃╱┃┃┃╰━╯┃┃┃╰╮
+                ${BLUE} ╱╱╰╯╰━━┻╯╰┻┻┻┻╯╱╰━┻━━━┻╯╰━╯${WHITE} 2.1
 	EOF
 }
 
